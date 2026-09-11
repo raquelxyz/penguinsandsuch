@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7WlDnuo4Rg=",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rock\\code\\csv-reader\\DataAnalyzer\\DataAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rock\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

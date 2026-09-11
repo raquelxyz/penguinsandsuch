@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CsvHelperClass/CsvHelperClass.csproj" />
+  <Project Path="DataAnalyzer/DataAnalyzer.csproj" />
+</Solution>

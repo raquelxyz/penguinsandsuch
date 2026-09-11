@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\bin\Debug\net10.0\CsvHelperClass.deps.json
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\bin\Debug\net10.0\CsvHelperClass.dll
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\bin\Debug\net10.0\CsvHelperClass.pdb
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.dll
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\refint\CsvHelperClass.dll
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\CsvHelperClass.pdb
+\\wsl.localhost\Ubuntu\home\rock\code\csv-reader\CsvHelperClass\obj\Debug\net10.0\ref\CsvHelperClass.dll
